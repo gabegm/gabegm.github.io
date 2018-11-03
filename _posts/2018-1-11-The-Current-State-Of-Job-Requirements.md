@@ -5,21 +5,21 @@ title: The Current State of Job Requirements
 
 Have you ever looked at a job ad, skimmed through it, and decided not to apply because you thought that you could not even come close to matching the requirements the ad was asking for? Maybe you were job hunting and felt like you were being flooded with job ads having impossible requirements making you shake your head in disbelief.
 
-    Looking for a Big Data Engineer with an M.Sc or Ph.D degree in a related field, having at least 7 years of experience in Hadoop and Spark. Must also have a few years of experience with AI-powered Blockchain technologies and willing to start yesterday.
+> Looking for a Big Data Engineer with an M.Sc or Ph.D degree in a related field, having at least 7 years of experience in Hadoop and Spark. Must also have a few years of experience with AI-powered Blockchain technologies and willing to start yesterday.
 
 Does that sound familiar? Welcome to the current state of job ads; where candidates complain that requirements are too hard to match, and hiring managers claim that they cannot find the candidates they’re looking for. How did we reach this point? Let’s break down the job ad above.
 
-    Looking for a Big Data Engineer with an M.Sc or Ph.D degree in a related field
+> Looking for a Big Data Engineer with an M.Sc or Ph.D degree in a related field
 
 Is requiring an M.Sc or Ph.D really justified to work as a big data engineer? If you’ve noticed that a lot of new job descriptions nowadays are asking for a higher education than a graduate degree, then you are not wrong. Masters degrees have now become the new bachelors degrees in the hiring world. If the job has not changed, then why should the candidate’s education? Many hiring managers are now asking for post graduate degrees for the same jobs which only used to require a graduate degree, pushing students further into debt with their student loans, assuming they afford to do so.
 
-    Having at least 7 years of experience in Hadoop and Spark
+> Having at least 7 years of experience in Hadoop and Spark
 
 How can a candidate possibly fill the job of a big data engineer, requiring 7 years of experience in Hadoop and Spark, when these technologies have not even been out for that long? Although this example is strictly relevant towards IT jobs, these unrealistic expectations are also found in other industries such as engineering in which hiring managers ask for prior experience with specific brands of machine tools. Although it is understandable to want experienced candidates, such unrealistic expectations only make it harder to fill positions in a company.
 
 ![alt text](/images/work-experience.jpeg "Logo Title Text 1")
 
-    Must also have a few years of experience with AI-powered Blockchain technologies and willing to start yesterday
+> Must also have a few years of experience with AI-powered Blockchain technologies and willing to start yesterday
 
 Do I really need to explain this one? Okay, I may have gone little overboard with last part of the job ad, but I just can’t count the number of times I saw something like this in a job description. How many times have you looked at a job description and saw a requirement listed which had nothing to do with the job itself?
 
@@ -51,7 +51,7 @@ Transparency is key. Although it is the recruiter’s job to understand the mark
 
 Invest in your employees. Not all candidates start off with all the experience the job requires. Companies that invest in their employees are more likely to respond to changes in the market.
 
-    “The only thing worse than training your employees and having them leave is not training them and having them stay.” — Henry Ford
+> “The only thing worse than training your employees and having them leave is not training them and having them stay.” — Henry Ford
 
 # What can we do in the meantime?
 
@@ -65,4 +65,4 @@ Get in touch with the recruiter if you don’t hear anything from them after a m
 
 After all, experience is not the only important thing for a candidate to thrive in a company. Soft skills, interpersonal skills, and being a team player all play a huge role, let’s not forget that. So even if you only meet 70% of what’s listed in the ad, you could still stand a reasonable shot at getting an offer.
 
-    “You miss 100% of the shots you don’t take” — Wayne Gretzky
+> “You miss 100% of the shots you don’t take” — Wayne Gretzky

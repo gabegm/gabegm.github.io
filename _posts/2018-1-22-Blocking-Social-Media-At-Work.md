@@ -15,7 +15,7 @@ Let’s face it, censorship is not cool. And who would want to work for a compan
 
 Word of mouth is the best form of free advertising nowadays thanks to social networks. It’s something that’s very hard to obtain, yet so easy to lose. Granting access to social networks could give the company a good reputation and keep your employees happy. Take that away and you risk disgruntled employees complaining about your access restriction methods to their peers.
 
-    “If you make customers unhappy in the physical world, they might each tell 6 friends. If you make customers unhappy on the Internet, they can each tell 6,000 friends.” — Jeff Bezos, CEO at Amazon.com
+> “If you make customers unhappy in the physical world, they might each tell 6 friends. If you make customers unhappy on the Internet, they can each tell 6,000 friends.” — Jeff Bezos, CEO at Amazon.com
 
 Would you rather your employees become savvy with the current trends in social networking, or stay stuck in the past? Every year social networking is being further embedded into our lives. Your employees may not be using social networks for work today, but they might need to tomorrow. Allowing your employees access to social networks ensures that they will be ready for this change in trend.
 

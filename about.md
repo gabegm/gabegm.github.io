@@ -18,11 +18,11 @@ I am constantly setting myself out to learn new things, be it from online articl
 
 [Predicting market turnover](https://github.com/gabegm/Predict-Market-Turnover)
 
-I built a predictive model to predict the turnover for the Bundesliga season 17/18.
+I built a predictive model to predict the turnover for the Bundesliga season 17/18 for a candidate test.
 
 [Data Driven Automated Algorithmic Trading](https://github.com/gabegm/Data-Driven-Automated-Algorithmic-Trading)
 
-I built an automated algorithm to trade the markets.
+For my thesis project, I built an automated algorithm to trade the markets.
 
 [Shopping Cart](https://github.com/gabegm/ShoppingCart)
 

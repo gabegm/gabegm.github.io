@@ -6,14 +6,29 @@ permalink: /about/
 
 _The views and opinions on this website are my opinions and do not reflect the views of my current or former employers._
 
+## Short biography
+
 I am a data scientist who is extremely passionate about being able to derive insight from data. I currently work for a leading sports betting company based in Malta, but curious to all fields where data has a huge impact.
 
 I have learnt a lot on my journey thus far, topics which include machine learning, deep learning, recommender systems, parallel computing, and high performance computing.
 
 I am constantly setting myself out to learn new things, be it from online articles and discussions, to books and podcasts. Many people do not understand why I do so, especially at late hours of the day, but it is very simple to me as learning new things is something that I find great joy in doing.
 
+## Open source projects
 
-### More Information
+[Predicting market turnover](https://github.com/gabegm/Predict-Market-Turnover)
+
+I built a predictive model to predict the turnover for the Bundesliga season 17/18
+
+[Data Driven Automated Algorithmic Trading](https://github.com/gabegm/Data-Driven-Automated-Algorithmic-Trading)
+
+I built an automated algorithm to trade the markets.
+
+[Shopping Cart](https://github.com/gabegm/ShoppingCart)
+
+An e-commerce website built on top of ASP.NET 4 MVC5
+
+## Long form biography
 
 When I was about fourteen-years-old, I used to spend countless of hours playing a game called "Grand Theft Auto: San Andreas". This game had a huge community behind it, many of who dedicated their free time to create modifications which eather changed or extended the game beyond its capabilities. One day I found a modification which implemented online multiplayer features, something which the game lacked and was wished for greatly. I instantly got hooked, as from being used to playing on my own, I was suddenly opened up to thousands of people who I could play with, just thanks to a single modification. But this modification did a lot more than just provide online multiplayer features, it also allowed people to use a scripting language called Lua to change the behaviour of the game. Weather it was simply spawning something out of nowhere, or even created whole new game modes which people could play together, this scripting language could allow anyone to do it all. This amazed me of course, and got me interested in learning the language to be able to do all the cool things these other people were doing. A few months later, this online multiplayer modification went open source, an area completely new to me at the time and got me interested in open and collaborative programming. This is when I realised that programming was what I wanted to do out of college.
 

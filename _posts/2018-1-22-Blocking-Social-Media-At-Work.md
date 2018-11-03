@@ -1,4 +1,7 @@
-# Blocking Social Media At Work
+---
+layout: post
+title: Blocking Social Media at Work
+---
 
 Are you tired of your employees accessing social networks at work? Maybe you feel that your employees are spending more time checking their Facbook feed rather than crunching the numbers. Whether it’s Facebook, Twitter, or YouTube, how dare they do something else other than what you’re paying them for? In fact, why don’t you just strip out all the applications from their computers, lock them down, which let’s face it they probably already are, and leave Excel installed and call it ExcelOS, _patent pending_.
 
@@ -30,3 +33,8 @@ Social networks could also help your employees network with employees from other
 
 # Conclusion
 
+Let’s face it. There’s a way around to everything. If your employees really want to access social networks, they will. Whether it’s on their laptop or their phone, they’ll find a way. Should you really be measuring the productivity of your employees from the time they spend working on work related tasks? Isn’t it more important that your employees are getting the work done? So what if they like to reward themselves between tasks by checking their Facebook feed? Having such a system in place could actually keep your employees more productive.
+
+This doesn’t mean that there won’t be employees who will waste time. Such employees have always existed, long before computers and social networks were ever introduced in the workplace. Simply taking away access to social networks isn’t going to magically make a time wasting employee productive. It’s the management’s job to handle those employee’s whose social networking use is affecting their productivity.
+
+How often do your employees work beyond their eight hour shift? Take a minute to think about it. Do they check their work emails as soon as they get up? That’s a work related activity at home. Many employees review reports while they’re out, take calls while they’re on vacation, and draft reports before bed. With all this in mind, do you still think it’s fair to block their access?

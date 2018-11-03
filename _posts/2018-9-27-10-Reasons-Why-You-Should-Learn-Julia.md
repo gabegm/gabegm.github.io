@@ -1,4 +1,8 @@
-# 10 Reasons Why You Should Learn Julia
+---
+layout: post
+title: 10 Reasons Why You Should Learn Julia
+---
+
 Even though it has 1-based indexing
 
 ![alt text](/images/julia-repl.png "Logo Title Text 1")

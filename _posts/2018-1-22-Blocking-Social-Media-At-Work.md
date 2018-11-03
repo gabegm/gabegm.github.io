@@ -24,10 +24,12 @@ By cutting off access to social networks, you’re cutting off your employee’s
 Social networks may also be used as a means to seek help. Many people navigate to Twitter for help on technical questions, possibly even directed towards the authority in charge. YouTube could also be used to look up tutorials on performing certain Excel functions. By blocking access to social networks, you could be restricting your employees from being able to ask for help online when they’re stuck.
 
 ![alt text](/images/work-site.gif "Logo Title Text 1")
+*[source](http://joyreactor.com/post/876142)*
 
 You could also be inarticulately blocking a website your employees use to do their job. Let’s face it, no one expects you to understand all the websites which your employees use. But if that’s the case, then maybe you shouldn’t be the one deciding what websites your employees can and can’t use.
 
 ![alt text](/images/reddit-it-block.png "Logo Title Text 1")
+*[source: /r/webdev](https://www.reddit.com/r/webdev/comments/7pxeqn/im_a_freelance_web_dev_and_my_current_clients_it/)*
 
 Social networks could also help your employees network with employees from other companies. How else are your employees going to know what your competitors are up to? Your employees could also bring forward new ideas and possibly improvements to the company’s benefits.
 

@@ -20,6 +20,7 @@ Well, yes. Why, you ask?
 Programming languages are used for solving various real world problems, but there is not one language that can solve them all, requiring particular approaches. Some are efficient and have more advantages to use over the others. If we take a look at C for instance, C was the most powerful language there was. Everyone thought C would be the language to end all other languages, but then there came a need for a language which could be used to represent real world problems through Object Oriented Programming (OOP) concepts, which is how C++ was born. So why was Java invented then? People needed something as powerful as C++, but slightly easier to use.
 
 ![alt text](/images/periodic-table-programming-languages.png "Logo Title Text 1")
+*Periodic table of programming languages*
 
 There will never be the perfect language. Programming languages will never be a finished product, as the world evolves and specific needs change, so will programming languages.
 Here are 10 reasons why
@@ -118,6 +119,7 @@ Python allows developers to add C extensions. This is great for when you have ca
 However this takes away from the beauty of Python. Python is supposed to be a simple to use, easy to read language. Adding C/C++ to the mixture ruins that, so might as well just use C/C++ in the first place.
 
 ![alt text](/images/numpy-cpp.png "Logo Title Text 1")
+*Numpy is written more in C/C++ than it is in Python*
 
 Julia solves this problem however, since it can be as fast as C/C++, without having the need to make such trade-offs. The core language imposes very little; Julia Base and the standard library is written in Julia itself, including primitive operations like integer arithmetic.
 
@@ -178,3 +180,4 @@ JuliaBox lets developers prototype their Julia code in [Jupyter notebooks](http:
 JuliaBox includes a number of introductory tutorials to get you up and running with the language, but also go a step further and include advanced tutorials to get you up to speed with the language’s capabilities.
 
 ![alt text](/images/julia-box.png "Logo Title Text 1")
+*Getting started tutorials on JuliaBox*

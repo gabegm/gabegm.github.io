@@ -18,6 +18,7 @@ Is requiring an M.Sc or Ph.D really justified to work as a big data engineer? If
 How can a candidate possibly fill the job of a big data engineer, requiring 7 years of experience in Hadoop and Spark, when these technologies have not even been out for that long? Although this example is strictly relevant towards IT jobs, these unrealistic expectations are also found in other industries such as engineering in which hiring managers ask for prior experience with specific brands of machine tools. Although it is understandable to want experienced candidates, such unrealistic expectations only make it harder to fill positions in a company.
 
 ![alt text](/images/work-experience.jpeg "Logo Title Text 1")
+*[source](https://images.wizbii.com/file/v1/0b7mpab0o6pzyg2bpbtrpbw2pparr52b.jpeg)*
 
 > Must also have a few years of experience with AI-powered Blockchain technologies and willing to start yesterday
 

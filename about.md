@@ -10,7 +10,7 @@ I am a data scientist who is extremely passionate about being able to derive ins
 
 I have learnt a lot on my journey thus far, topics which include machine learning, deep learning, recommender systems, parallel computing, and high performance computing.
 
-I am constantly setting myself out to learn new things, be it from online articles and discussions, to books and podcasts. Many people do not understand why I do so, especially at late hours of the day, but it is very simple to me as learning new things is something that I find great joy doing.
+I am constantly setting myself out to learn new things, be it from online articles and discussions, to books and podcasts. Many people do not understand why I do so, especially at late hours of the day, but it is very simple to me as learning new things is something that I find great joy in doing.
 
 
 ### More Information
